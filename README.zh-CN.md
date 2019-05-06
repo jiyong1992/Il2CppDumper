@@ -1,3 +1,6 @@
+编译版本 https://ci.appveyor.com/project/Perfare/il2cppdumper/branch/master/artifacts
+
+
 # Il2CppDumper
 [![Build status](https://ci.appveyor.com/api/projects/status/anhqw33vcpmp8ofa?svg=true)](https://ci.appveyor.com/project/Perfare/il2cppdumper/branch/master/artifacts)  
 从il2cpp中获取types, methods, fields等等数据  
